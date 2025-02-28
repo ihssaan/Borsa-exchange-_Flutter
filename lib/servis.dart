@@ -7,7 +7,7 @@ class BorsamService {
       baseUrl: "https://api.collectapi.com/economy/hisseSenedi",
       headers: {
         'content-type': 'application/json',
-        'authorization': 'apikey 4hsiV4tuXXnTrZbyNR9mvg:1Mj6UQXJthZL9GHbHWB5do',
+        'authorization': 'KENDİ APİ KEYİNİZ',
       },
     ),
   );
